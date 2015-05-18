@@ -1,8 +1,3 @@
-/*-----------------------------------------------------------------------------------*/
-/*	    
-/*      Built with Blocs
-/*-----------------------------------------------------------------------------------*/
-
 body{
 	margin:0;
 	padding:0;
@@ -13,12 +8,6 @@ body{
 a:hover{text-decoration: none; cursor:pointer;}
 
 button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari */
-
-
-   
-
-
-
 
 /* Globals type styling */
    
@@ -35,8 +24,7 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 	padding-right:15px;
 }
 
-/* = Blocs
--------------------------------------------------------------- */
+
 
 .bloc{
 	width:100%;
@@ -542,4 +530,8 @@ iframe{
         margin-top: 50px;
         margin-bottom: 50px;
     }
+}
+
+.uniqueapproach {
+    margin-top: 40px;
 }
