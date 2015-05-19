@@ -15,6 +15,9 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 	font-family:"Open Sans";
 }
 
+h1, h2, h3, h4, h5 {
+    font-weight: 600;
+}
 
 /* Site container width */
 
