@@ -12,7 +12,7 @@ button{outline: none!important;} /* Prevent ugly blue glow on chrome and safari 
 /* Globals type styling */
    
  h1, h2, h3, h4, h5, h6, p, label, .btn, a{
-	font-family:"Helvetica";
+	font-family:"Open Sans";
 }
 
 
