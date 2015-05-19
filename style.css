@@ -133,6 +133,9 @@ h1, h2 {
 #hero-bloc,#nav-bloc{
 	background-color:#2d6e68;
 }
+#bloc-2 {
+    padding: 30px 0;
+}
 #bloc-2,#bloc-3{
 	background-color:#ffffff;
 }
@@ -342,7 +345,6 @@ button{
 }
 .a-block{
 	width:100%;
-	text-align: left;
 }
 
 
@@ -537,4 +539,7 @@ iframe{
 
 .approachblock {
     margin-top: 40px;
+}
+.bloc-marginx {
+    margin-bottom: 100px !important;
 }
