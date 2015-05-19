@@ -136,6 +136,9 @@ h1, h2 {
 #bloc-2 {
     padding: 30px 0;
 }
+#bloc-9 {
+    padding-bottom: 50px;
+}
 #bloc-2,#bloc-3{
 	background-color:#ffffff;
 }
