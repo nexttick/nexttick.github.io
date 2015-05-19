@@ -538,8 +538,11 @@ iframe{
 
 .approachblock {
     margin-top: 40px;
+}
 
-
+.text-just {
+    text-align: justify;
+}
 }
 .bloc-marginx {
     margin-bottom: 100px !important;
