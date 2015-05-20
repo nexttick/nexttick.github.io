@@ -1,2 +1,0 @@
-# site
-test site placeholder
